@@ -20,7 +20,7 @@
 ## 📫 Contact
 
 - **Email**: [sbangapadang22@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]((https://www.linkedin.com/in/samuel-bangapadang/))
+- **LinkedIn**: ((https://www.linkedin.com/in/samuel-bangapadang/))
 
 ## 📊 GitHub Stats
 
