@@ -15,7 +15,7 @@
 
 ## 🔭 Projects
 
-- **[Retail Transactions Analysis](https://github.com/sbangapadang22/HousePricesPrediction)**: Analyzing retail transactions using Apriori and FP-Growth algorithms.
+- **[Retail Transactions Analysis](https://github.com/sbangapadang22/MarketBasketAnalysis)**: Analyzing retail transactions using Apriori and FP-Growth algorithms.
 
 ## 📫 Contact
 
