@@ -13,13 +13,13 @@
 - **Frameworks & Tools**: Pandas, NumPy, Matplotlib, Jinja, Swagger
 - **Technologies**: SQL, NoSQL
 
-## 🔭 Projects
-
-- **[Retail Transactions Analysis](https://github.com/sbangapadang22/MarketBasketAnalysis)**: Analyzing retail transactions using Apriori and FP-Growth algorithms.
-
 ## 💻 Currently Working On:
 
 - **[Dynamic Sparsity Neural Network Framework](https://github.com/sbangapadang22/DynamicSparsity)**: Framework for neural networks that dynamically adjusts the sparsity of connections during training to optimize computational resources and improve performance.
+
+## 🔭 Projects
+
+- **[Retail Transactions Analysis](https://github.com/sbangapadang22/MarketBasketAnalysis)**: Analyzing retail transactions using Apriori and FP-Growth algorithms.
 
 ## 📫 Contact
 
