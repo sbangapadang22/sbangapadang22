@@ -1,6 +1,7 @@
-<samp>comp sci and data science @ mines</samp>
+<samp>Computer Science + Data Science @ Colorado SCchool of Mines</samp>
+<samp>SWE @ Qualcomm</samp>
 
-<samp>currently working on:</samp>
+<samp>Currently Working On:</samp>
 <samp>
-  jirapilot @ Qualcomm
+  JiraPilot @ Qualcomm
 </samp>
