@@ -4,5 +4,6 @@
 
 <samp>Currently Working On:</samp>
 <samp>
-  JiraPilot @ Qualcomm
+  JiraPilot (Qualcomm)
+  HeLM (Personal)
 </samp>
